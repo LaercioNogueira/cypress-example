@@ -17,6 +17,7 @@ npm start
 
 ## Cypress Starting
 ### Dentro da pasta Cypress, execute:
+Para executar o cypress, primeiro deve startar o server
 
 * Instalaçao
 ```
