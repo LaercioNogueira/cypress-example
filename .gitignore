@@ -1,2 +1,6 @@
 server/node_modules
+
+# cypress ignore
+cypress/cypress/videos
+cypress/cypress/screenshots
 cypress/node_modules
