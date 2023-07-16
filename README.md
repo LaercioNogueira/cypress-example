@@ -6,7 +6,9 @@ Example Project Cypress
 
 ```
 cd server && npm start
-````
+```
+
+## Cypress Starting
 
 ```
 cd cypress && npm run test:run
