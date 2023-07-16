@@ -3,7 +3,7 @@ Example Project Cypress
 
 
 ## Server Starting
-- Dentro da pasta Server, execute:
+### Dentro da pasta Server, execute:
 
 * Instalaçao
 ```
@@ -16,7 +16,7 @@ npm start
 ```
 
 ## Cypress Starting
-- Dentro da pasta Cypress, execute:
+### Dentro da pasta Cypress, execute:
 
 * Instalaçao
 ```
